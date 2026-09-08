@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bed943b7ed537f047979c5c8cc4f412a, type: 3}
+  m_Name: FishDef_Brown
+  m_EditorClassIdentifier: 
+  Id: 
+  DisplayName: "\u68D5\u9C7C"
+  Sprite: {fileID: 21300000, guid: 0de79a051a3b31643856efebd3954e82, type: 3}
+  SpriteSize: {x: 1.3, y: 0.8}
+  StarLevel: 2
+  CoinReward: 25
+  ShellReward: 25
+  MinDepth: 55
+  MaxDepth: 90
+  Behavior: 1
+  MoveSpeed: 1.2
+  ColliderRadius: 0.5

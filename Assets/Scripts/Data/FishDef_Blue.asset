@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bed943b7ed537f047979c5c8cc4f412a, type: 3}
+  m_Name: FishDef_Blue
+  m_EditorClassIdentifier: 
+  Id: 
+  DisplayName: "\u84DD\u9C7C"
+  Sprite: {fileID: 21300000, guid: 37fc953cde6bcb246acd732a846c1050, type: 3}
+  SpriteSize: {x: 1.1, y: 0.7}
+  StarLevel: 1
+  CoinReward: 12
+  ShellReward: 12
+  MinDepth: 15
+  MaxDepth: 45
+  Behavior: 1
+  MoveSpeed: 1.5
+  ColliderRadius: 0.5
